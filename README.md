@@ -1,6 +1,6 @@
-# alt-school-vue3
+# Color Pick Game
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple game made with JavaScript and VueJs lets you guess a color and the game will tell you wether you won or lost.
 
 ## Recommended IDE Setup
 
